@@ -8,7 +8,7 @@
 //truthy
 //'0' '' []
 // const age = 5;
-let name = null;
+let name = 12;
 console.log(name);
 if(name || name == 0){
     console.log("condition is true");

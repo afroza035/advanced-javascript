@@ -7,6 +7,8 @@ null
 NaN
 truthy
 '0' '' []
+
+
 const age = 5;
 let name = 12;
 console.log(name);
